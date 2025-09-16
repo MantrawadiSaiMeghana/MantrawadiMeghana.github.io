@@ -4687,17 +4687,3 @@ input, select, textarea {
 		}
 
 	}
-/* Force footer to show at bottom and full width */
-#footer {
-  clear: both;
-  width: 100%;
-  margin-top: 3em;
-}
-
-#footer .split.contact {
-  display: block !important;
-}
-
-#footer .split.contact section {
-  margin-bottom: 1.5em;
-}
